@@ -1,0 +1,184 @@
+.dong3 ul a:hover{
+
+	color:white;
+	background: FFCC00;
+
+
+
+
+}
+a{
+	font-size: 11px;
+		margin-left: 1%;
+		text-align: left;
+		color: white;
+}
+.butt{
+	width: 230px;
+	height: 26px;
+	border-radius: 80px;
+	margin-top: 0.4%;
+	float: right;
+	margin-right: 10%;
+	background-color: #6e6d6b;
+}
+
+.row ul{
+	margin: left;
+}
+h1{
+	font-size: 11px;
+	color: white;
+	float: left;
+	font-weight: lighter;
+	}
+.hang4 .row{
+	margin-left: 8%;
+	height: 340px;
+	ư
+	background-color: black;
+	}
+	.hang4 h2{
+	font-size:15px;
+	margin-top: 7%;
+	color: #b3b1af;
+	margin-left:5%;
+	}
+	.carousel-inner img {
+    width: 100%;
+    height: 350%;
+  }
+.dong5{
+	width: 27.4%;
+	height: 200px;
+	float: left;
+	
+	background: black;
+	margin-left: 1%;
+	margin-top: 1%;	
+}
+.dong5 .hinh{
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+.box{
+	height: 25px;
+	width: 150px;
+	background-color: black;
+	margin-left: 8%;
+	margin-top: 1%;
+	border-top-right-radius: 10px;
+}
+.box1{
+	height: 2px;
+	width: 82%;
+	background-color: yellow;
+	margin-left: 8%;
+
+}
+.box h3{
+	font-size: 15px;
+	margin-top: 5%;
+	margin-left: 8%;
+	align-content: center;
+	color: white;
+}
+.dong6{
+	width: 16%;
+	height: 320px;
+	background-color: #fffff6;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+	border: 1px solid 
+	
+}
+.dong6 .hinh1{
+	height: 200px;
+	float: top;
+}
+
+.dong6 h4{
+	margin-top: 0.1%;
+	margin-left: 6%;
+	font-size: 20px;
+}
+.dong6 .gia{
+	font-size: 15px;
+	color: red;
+	margin-left: 25%;
+}
+.dong6 .mua{
+	height: 29px;
+	width: 130px;
+	background-color: yellow;
+	margin-top: 3%;
+	margin-left: 20%;
+	border-radius: 5px;
+}
+* {
+  box-sizing: border-box;
+}
+
+.dong6 .hinh1 {
+  padding: 50px;
+  background-color: white;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.dong6:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.021); 
+}
+.anhdai{
+	height: 170px;
+	width: 84%;
+	margin-left: 7%;
+}
+.end1{
+	height: 400px;
+	width:300px;
+	
+	margin-left: 10%;
+	float: left;
+}
+.end2{
+	height: 400px;
+	width: 200px;
+	
+	float: left;
+	margin-left: 1%;
+
+}
+.end3{
+	height: 400px;
+	width:300px;
+	background-color: white;
+	margin-left: 1%;
+	float: left;
+
+
+}
+.end4{
+	height: 400px;
+	width:400px;
+
+	margin-left: 1%;
+	float: left;
+}
+ h5{
+	font-size: 13px;
+	margin-left: 5%;
+}
+.chu11 ul h4:hover{
+	color: yellow;
+	float: left;
+}
+.ru ul a:hover{
+	color: yellow;
+}

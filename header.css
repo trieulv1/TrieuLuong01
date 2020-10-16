@@ -1,0 +1,26 @@
+.trang{
+	width: 100%;
+	height: 2550px;
+	background-color: #ffffff;
+	}
+.dong1{
+	width: 100%;
+	height: 30px;
+	background-color: #fce803;
+	
+}
+.chu1{
+float: left;
+height: 100%;
+width: 50%;
+text-align: center;
+margin-top: 0.3%;
+margin-left: 0.1%;
+
+	}
+.sdt{
+	float: left;
+	margin-top: 0.3%;
+	margin-left: 10%;
+
+}
